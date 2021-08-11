@@ -4,4 +4,4 @@ Ingredientes: HTML y Bootstrap.
 
 Condimentos: CSS, Javascript y CSS.
 
-Puedes bichearlo en directo en: (...próximamente...)
+Puedes bichearlo en: https//juanjelopezportfolio.es
